@@ -21,6 +21,10 @@ At-least the Basics of:
 - Vanilla CSS
 - JSON
 
+## Contact Me Here
+Twitter: [@KaehlenR](https://twitter.com/KaehlenR?t=rQukCai5VJsQl0OlYrIPsA&s=09)
+Facebook: [Kaehlen Rog](https://www.facebook.com/kaehlen.rog/)
+
 <!-- Node -->
 [node.js]: https://img.shields.io/badge/Node-333?style=for-the-badge&logo=nodedotjs&logoColor=339933
 [node-url]: https://nodejs.org/
